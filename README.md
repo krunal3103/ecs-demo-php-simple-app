@@ -7,4 +7,3 @@ It will keep tracking for any commits made on this repo thereafter and create an
 
 Once the image is ready it will prompt the user and then deploy the image and provide the user with the link!!
 
-Making some changes!!
